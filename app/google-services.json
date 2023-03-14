@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "753403733264",
+    "firebase_url": "https://cpo-ab662.firebaseio.com",
+    "project_id": "cpo-ab662",
+    "storage_bucket": "cpo-ab662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753403733264:android:d56428a486d2acb3",
+        "android_client_info": {
+          "package_name": "com.example.christopher.a3cpocompatibility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753403733264-ompt1nl0les208og1nuho30v8bpgep36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3Roogk4vh8VySVMwiZ8UEx9iUv2KGqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
